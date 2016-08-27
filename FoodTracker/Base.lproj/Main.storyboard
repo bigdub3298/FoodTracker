@@ -88,7 +88,7 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="2064" y="369"/>
+            <point key="canvasLocation" x="1444" y="369"/>
         </scene>
         <!--Your Meals-->
         <scene sceneID="56v-pQ-pXv">
@@ -180,7 +180,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="87n-DF-CxP" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1236" y="1155"/>
+            <point key="canvasLocation" x="552" y="1119"/>
         </scene>
     </scenes>
     <resources>

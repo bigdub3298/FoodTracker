@@ -28,10 +28,6 @@ class MealTableViewController: UITableViewController {
             loadSampleMeals()
         }
         
-        // Load the sample data.
-        loadSampleMeals()
-        
-        
     }
     
     func loadSampleMeals() {
